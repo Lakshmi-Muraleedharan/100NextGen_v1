@@ -1,0 +1,69 @@
+{
+  "fund_id": "FUND01",
+  "generated_at_utc": "2026-11-20T12:07:28+00:00",
+  "model": "fake-claude",
+  "status": "completed_with_breaks",
+  "comparisons": 688,
+  "matched": 680,
+  "open_items": 8,
+  "checks": {
+    "cash_ledger_vs_bank": {
+      "MATCHED": 39,
+      "BREAK": 4
+    },
+    "cash_movement_vs_prime_broker": {
+      "MATCHED": 42
+    },
+    "email_closing_vs_ledger": {
+      "MATCHED": 2
+    },
+    "holdings_admin_vs_custody": {
+      "MATCHED": 170,
+      "BREAK": 2
+    },
+    "market_value_recalculation": {
+      "MATCHED": 172
+    },
+    "price_admin_vs_vendor": {
+      "MATCHED": 170,
+      "BREAK": 2
+    },
+    "statement_integrity": {
+      "MATCHED": 85
+    }
+  },
+  "verification": {
+    "agreed": 688
+  },
+  "investor_statement_date": "2026-11-30",
+  "outputs": {
+    "break_queue": "break_queue.csv",
+    "all_results": "reconciliation_results.csv",
+    "extracted_records": "extracted_records.json",
+    "review_report": "review_report.md",
+    "investor_statement_md": "investor_statement_FUND01_2026-11-30.md",
+    "investor_statement_html": "investor_statement_FUND01_2026-11-30.html"
+  },
+  "report_error": null,
+  "claude_usage": {
+    "calls": 59,
+    "input_tokens": 0,
+    "output_tokens": 0
+  },
+  "input_files_sha256": {
+    "admin/admin_cash_ledger_2026-10.csv": "d279031548fb78d52461981c78aab6aa486775ba2412bf78065fd5de94ed6e47",
+    "admin/admin_cash_ledger_2026-11.csv": "968e3357b4560ce243b1093ddd1ba24b13933ab10bf60e562cc682ec19878dac",
+    "admin/admin_holdings_2026-10.csv": "5c31e1c3400ec05ed655dcf7c3c09980c048a0b0253c86482d5fbebe9cda3b6e",
+    "admin/admin_holdings_2026-11.csv": "e6dd2dee7f091463c17217c030b1008bcd64984704e8346f20e0492c92233bed",
+    "custodian/custodian_positions_2026-10.csv": "1b78270a3af14c40c31346508b0c1391e8c09465f28c435afe1019b7089da572",
+    "custodian/custodian_positions_2026-11.csv": "8f9e419a3184f0b50024db1f5c057813496051ecb7fd45db8d41ec64c74f7db3",
+    "bank/bank_statement_mt940_2026-10.txt": "a1088e9bc3dcc5dc826bc820ac06e3aa90ff2741cd6963fab09ec3a7fc44ab6c",
+    "bank/bank_statement_mt940_2026-11.txt": "61ded459c1d2c76b18d7ec300cb1fe8a2e0975e98f3a14055a65763642765c43",
+    "prime_broker/prime_broker_activity_2026-10.csv": "08e58c4667936009b89ec00904e38810284bb47907ec467a6d697a3f61871bad",
+    "prime_broker/prime_broker_activity_2026-11.csv": "53e91bed4b4b7ab76ec801ee7a34fc70b80c480529a56e5bff01c1df3cc49d32",
+    "pricing/vendor_prices_2026-10.csv": "e7bc610b5e6b3630040da62ba31d5956074e75b486ac195cad5a4cd21bc107a8",
+    "pricing/vendor_prices_2026-11.csv": "aa53b5bfd9565c3e08c78f62ef8178c246ab498f9162050af00dfb525561f50b",
+    "email/prime_broker_month_end_summary_2026-10.eml": "555357e434bfa9692cd63846f579efb33b2e292c31aa56c5f1c109100359e6eb",
+    "email/prime_broker_month_end_summary_2026-11.eml": "ff82b3dd23f7484ac3e978931e7992fd290d3f8fbfe98250c9edb7de2d72489e"
+  }
+}

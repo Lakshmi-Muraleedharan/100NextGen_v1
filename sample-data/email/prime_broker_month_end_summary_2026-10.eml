@@ -1,0 +1,19 @@
+From: prime-broker-ops@primebroker.example.com
+To: fund-ops@fund.example.com
+Date: Fri, 30 Oct 2026 18:05:00 +0000
+Subject: FUND01 month-end cash summary 2026-10 (synthetic sample)
+Content-Type: text/plain; charset=utf-8
+
+Dear fund operations team,
+
+Month-end cash summary for FUND01, account ACC1001, October 2026.
+
+Opening cash (1 Oct 2026):           1000000.00 USD
+Net subscriptions/redemptions:       0.00 USD
+Closing cash (30 Oct 2026):    1000000.00 USD
+
+Business days covered: 22
+Please reconcile against your ledger and let us know of any differences.
+
+Regards,
+Prime brokerage operations (sample)

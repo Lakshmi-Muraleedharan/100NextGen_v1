@@ -1,0 +1,3 @@
+Sample output generated offline with tests/fake_claude.py (model 'fake-claude'), not by
+claude-sonnet-5-5--VNGC. It shows the output format only. Re-run `python -m recon_claude` with
+the Azure SPN credentials set to overwrite this folder with real Claude-generated output.

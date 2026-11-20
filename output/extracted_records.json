@@ -1,0 +1,5276 @@
+{
+  "admin_cash": [
+    {
+      "as_of_date": "2026-10-01",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "998000.00"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "998000.00"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "998000.00"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "993000.00"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "997000.00"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "994000.00"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "995000.00"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "fund_id": "FUND01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "ledger_balance": "998000.00"
+    }
+  ],
+  "admin_holdings": [
+    {
+      "as_of_date": "2026-10-01",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.4000",
+      "market_value": "912000.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-01",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.1500",
+      "market_value": "192450.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-01",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8000",
+      "market_value": "50160.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-01",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.2500",
+      "market_value": "77800.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.8700",
+      "market_value": "914350.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.4029",
+      "market_value": "193208.70",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9443",
+      "market_value": "50333.16",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3803",
+      "market_value": "77904.24",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.1190",
+      "market_value": "915595.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.2360",
+      "market_value": "192708.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6543",
+      "market_value": "49985.16",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0044",
+      "market_value": "77603.52",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.0298",
+      "market_value": "915149.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9264",
+      "market_value": "191779.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8028",
+      "market_value": "50163.36",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5824",
+      "market_value": "78065.92",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.6444",
+      "market_value": "913222.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9880",
+      "market_value": "191964.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9429",
+      "market_value": "50331.48",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8691",
+      "market_value": "77495.28",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.1441",
+      "market_value": "910720.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3186",
+      "market_value": "192955.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6529",
+      "market_value": "49983.48",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.6353",
+      "market_value": "78108.24",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.7641",
+      "market_value": "908820.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3693",
+      "market_value": "193107.90",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8056",
+      "market_value": "50166.72",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.9047",
+      "market_value": "77523.76",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.6832",
+      "market_value": "908416.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0560",
+      "market_value": "192168.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9414",
+      "market_value": "50329.68",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5153",
+      "market_value": "78012.24",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.9394",
+      "market_value": "909697.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.8987",
+      "market_value": "191696.10",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6516",
+      "market_value": "49981.92",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0954",
+      "market_value": "77676.32",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.4123",
+      "market_value": "912061.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.1586",
+      "market_value": "192475.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8084",
+      "market_value": "50170.08",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.2761",
+      "market_value": "77820.88",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.8793",
+      "market_value": "914396.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.4042",
+      "market_value": "193212.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9399",
+      "market_value": "50327.88",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3554",
+      "market_value": "77884.32",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.1210",
+      "market_value": "915605.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.2278",
+      "market_value": "192683.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6503",
+      "market_value": "49980.36",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0253",
+      "market_value": "77620.24",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.0235",
+      "market_value": "915117.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9223",
+      "market_value": "191766.90",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8112",
+      "market_value": "50173.44",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5681",
+      "market_value": "78054.48",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.6328",
+      "market_value": "913164.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9948",
+      "market_value": "191984.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9383",
+      "market_value": "50325.96",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8753",
+      "market_value": "77500.24",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.1326",
+      "market_value": "910663.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3250",
+      "market_value": "192975.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6491",
+      "market_value": "49978.92",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.6380",
+      "market_value": "78110.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.7582",
+      "market_value": "908791.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3647",
+      "market_value": "193094.10",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8140",
+      "market_value": "50176.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8935",
+      "market_value": "77514.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.6856",
+      "market_value": "908428.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0480",
+      "market_value": "192144.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8140",
+      "market_value": "50176.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5338",
+      "market_value": "78027.04",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.9490",
+      "market_value": "909745.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9006",
+      "market_value": "191701.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6479",
+      "market_value": "49977.48",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0717",
+      "market_value": "77657.36",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.4245",
+      "market_value": "912122.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.1672",
+      "market_value": "192501.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8168",
+      "market_value": "50180.16",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3022",
+      "market_value": "77841.76",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.8885",
+      "market_value": "914442.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.4052",
+      "market_value": "193215.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9351",
+      "market_value": "50322.12",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3300",
+      "market_value": "77864.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.1227",
+      "market_value": "915613.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.2195",
+      "market_value": "192658.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6468",
+      "market_value": "49976.16",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0471",
+      "market_value": "77637.68",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.0171",
+      "market_value": "915085.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9184",
+      "market_value": "191755.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8196",
+      "market_value": "50183.52",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5523",
+      "market_value": "78041.84",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.6212",
+      "market_value": "913106.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0018",
+      "market_value": "192005.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9334",
+      "market_value": "50320.08",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8831",
+      "market_value": "77506.48",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.1212",
+      "market_value": "910606.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3312",
+      "market_value": "192993.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6457",
+      "market_value": "49974.84",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.6390",
+      "market_value": "78111.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.7524",
+      "market_value": "908762.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3598",
+      "market_value": "193079.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8224",
+      "market_value": "50186.88",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8838",
+      "market_value": "77507.04",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.6882",
+      "market_value": "908441.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0401",
+      "market_value": "192120.30",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9317",
+      "market_value": "50318.04",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5510",
+      "market_value": "78040.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.9587",
+      "market_value": "909793.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9028",
+      "market_value": "191708.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6446",
+      "market_value": "49973.52",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0489",
+      "market_value": "77639.12",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.4368",
+      "market_value": "912184.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.1758",
+      "market_value": "192527.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8252",
+      "market_value": "50190.24",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3280",
+      "market_value": "77862.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.8976",
+      "market_value": "914488.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.4060",
+      "market_value": "193218.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9300",
+      "market_value": "50316.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3042",
+      "market_value": "77843.36",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.1243",
+      "market_value": "915621.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.2112",
+      "market_value": "192633.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6436",
+      "market_value": "49972.32",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0699",
+      "market_value": "77655.92",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.0104",
+      "market_value": "915052.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9148",
+      "market_value": "191744.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8280",
+      "market_value": "50193.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5352",
+      "market_value": "78028.16",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.6094",
+      "market_value": "913047.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0089",
+      "market_value": "192026.70",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9282",
+      "market_value": "50313.84",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8927",
+      "market_value": "77514.16",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.1099",
+      "market_value": "910549.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3372",
+      "market_value": "193011.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6426",
+      "market_value": "49971.12",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.6382",
+      "market_value": "78110.56",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.7469",
+      "market_value": "908734.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3548",
+      "market_value": "193064.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8307",
+      "market_value": "50196.84",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8758",
+      "market_value": "77500.64",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.6910",
+      "market_value": "908455.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0324",
+      "market_value": "192097.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9263",
+      "market_value": "50311.56",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5669",
+      "market_value": "78053.52",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.9685",
+      "market_value": "909842.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9053",
+      "market_value": "191715.90",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6417",
+      "market_value": "49970.04",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0270",
+      "market_value": "77621.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.4490",
+      "market_value": "912245.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.1844",
+      "market_value": "192553.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8335",
+      "market_value": "50200.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.3534",
+      "market_value": "77882.72",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.9065",
+      "market_value": "914532.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.4064",
+      "market_value": "193219.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9245",
+      "market_value": "50309.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.2782",
+      "market_value": "77822.56",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.1257",
+      "market_value": "915628.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.2028",
+      "market_value": "192608.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9245",
+      "market_value": "50309.40",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.0935",
+      "market_value": "77674.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "183.0036",
+      "market_value": "915018.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "63.9115",
+      "market_value": "191734.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8363",
+      "market_value": "50203.56",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.5168",
+      "market_value": "78013.44",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.5977",
+      "market_value": "912988.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.0162",
+      "market_value": "192048.60",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.9226",
+      "market_value": "50307.12",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.9038",
+      "market_value": "77523.04",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "182.0987",
+      "market_value": "910493.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3430",
+      "market_value": "193029.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.6400",
+      "market_value": "49968.00",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "97.6356",
+      "market_value": "78108.48",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "security_name": "SAMPLE TECH PLC",
+      "quantity": "5000",
+      "admin_price": "181.7415",
+      "market_value": "908707.50",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "security_name": "SAMPLE BANK CORP",
+      "quantity": "3000",
+      "admin_price": "64.3494",
+      "market_value": "193048.20",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "security_name": "SAMPLE ENERGY INC",
+      "quantity": "1200",
+      "admin_price": "41.8390",
+      "market_value": "50206.80",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "fund_id": "FUND01",
+      "account_id": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "security_name": "SAMPLE HEALTH LTD",
+      "quantity": "800",
+      "admin_price": "96.8695",
+      "market_value": "77495.60",
+      "currency": "USD"
+    }
+  ],
+  "custody": [
+    {
+      "as_of_date": "2026-10-01",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-01",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-01",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-01",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3010",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3010",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000001",
+      "quantity": "5000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000002",
+      "quantity": "3000",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000003",
+      "quantity": "1200",
+      "currency": "USD"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "custodian_account": "CUST2001",
+      "security_id": "ZZ0000000004",
+      "quantity": "800",
+      "currency": "USD"
+    }
+  ],
+  "bank_mt940": [
+    {
+      "as_of_date": "2026-10-01",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "-5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-02",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-05",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "997000.00",
+      "transaction_amounts": [
+        "3000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-06",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "997000.00",
+      "closing_balance": "993000.00",
+      "transaction_amounts": [
+        "-4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "993000.00",
+      "closing_balance": "994250.00",
+      "transaction_amounts": [
+        "1250.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-08",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994250.00",
+      "closing_balance": "998250.00",
+      "transaction_amounts": [
+        "4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-09",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "998250.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-4250.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-12",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-13",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-14",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "998000.00",
+      "transaction_amounts": [
+        "-2000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-15",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "998000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "2000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "-5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-19",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-20",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "997000.00",
+      "transaction_amounts": [
+        "3000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-21",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "997000.00",
+      "closing_balance": "993000.00",
+      "transaction_amounts": [
+        "-4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-22",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "993000.00",
+      "closing_balance": "993000.00",
+      "transaction_amounts": [
+        "0.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-23",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "993000.00",
+      "closing_balance": "997000.00",
+      "transaction_amounts": [
+        "4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-26",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "997000.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-3000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-27",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-28",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-29",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "998000.00",
+      "transaction_amounts": [
+        "-2000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-10-30",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "998000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "2000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-02",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "-5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-03",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-04",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "997000.00",
+      "transaction_amounts": [
+        "3000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-05",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "997000.00",
+      "closing_balance": "993000.00",
+      "transaction_amounts": [
+        "-4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-06",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "993000.00",
+      "closing_balance": "994250.00",
+      "transaction_amounts": [
+        "1250.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-09",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994250.00",
+      "closing_balance": "998250.00",
+      "transaction_amounts": [
+        "4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-10",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "998250.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-4250.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-11",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-12",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-13",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "998000.00",
+      "transaction_amounts": [
+        "-2000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-16",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "998000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "2000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-17",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "-5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-18",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-19",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "997000.00",
+      "transaction_amounts": [
+        "3000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-20",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "997000.00",
+      "closing_balance": "993000.00",
+      "transaction_amounts": [
+        "-4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-23",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "993000.00",
+      "closing_balance": "993000.00",
+      "transaction_amounts": [
+        "0.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-24",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "993000.00",
+      "closing_balance": "997000.00",
+      "transaction_amounts": [
+        "4000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-25",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "997000.00",
+      "closing_balance": "994000.00",
+      "transaction_amounts": [
+        "-3000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-26",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "994000.00",
+      "closing_balance": "995000.00",
+      "transaction_amounts": [
+        "1000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-27",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "995000.00",
+      "closing_balance": "1000000.00",
+      "transaction_amounts": [
+        "5000.00"
+      ]
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_balance": "1000000.00",
+      "closing_balance": "998000.00",
+      "transaction_amounts": [
+        "-2000.00"
+      ]
+    }
+  ],
+  "prime_broker": [
+    {
+      "activity_date": "2026-10-01",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261001",
+      "currency": "USD",
+      "amount": "-5000.00"
+    },
+    {
+      "activity_date": "2026-10-02",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261002",
+      "currency": "USD",
+      "amount": "-1000.00"
+    },
+    {
+      "activity_date": "2026-10-05",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261005",
+      "currency": "USD",
+      "amount": "3000.00"
+    },
+    {
+      "activity_date": "2026-10-06",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261006",
+      "currency": "USD",
+      "amount": "-4000.00"
+    },
+    {
+      "activity_date": "2026-10-07",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261007",
+      "currency": "USD",
+      "amount": "0.00"
+    },
+    {
+      "activity_date": "2026-10-08",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261008",
+      "currency": "USD",
+      "amount": "4000.00"
+    },
+    {
+      "activity_date": "2026-10-09",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261009",
+      "currency": "USD",
+      "amount": "-3000.00"
+    },
+    {
+      "activity_date": "2026-10-12",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261012",
+      "currency": "USD",
+      "amount": "1000.00"
+    },
+    {
+      "activity_date": "2026-10-13",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261013",
+      "currency": "USD",
+      "amount": "5000.00"
+    },
+    {
+      "activity_date": "2026-10-14",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261014",
+      "currency": "USD",
+      "amount": "-2000.00"
+    },
+    {
+      "activity_date": "2026-10-15",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261015",
+      "currency": "USD",
+      "amount": "2000.00"
+    },
+    {
+      "activity_date": "2026-10-16",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261016",
+      "currency": "USD",
+      "amount": "-5000.00"
+    },
+    {
+      "activity_date": "2026-10-19",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261019",
+      "currency": "USD",
+      "amount": "-1000.00"
+    },
+    {
+      "activity_date": "2026-10-20",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261020",
+      "currency": "USD",
+      "amount": "3000.00"
+    },
+    {
+      "activity_date": "2026-10-21",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261021",
+      "currency": "USD",
+      "amount": "-4000.00"
+    },
+    {
+      "activity_date": "2026-10-22",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261022",
+      "currency": "USD",
+      "amount": "0.00"
+    },
+    {
+      "activity_date": "2026-10-23",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261023",
+      "currency": "USD",
+      "amount": "4000.00"
+    },
+    {
+      "activity_date": "2026-10-26",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261026",
+      "currency": "USD",
+      "amount": "-3000.00"
+    },
+    {
+      "activity_date": "2026-10-27",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261027",
+      "currency": "USD",
+      "amount": "1000.00"
+    },
+    {
+      "activity_date": "2026-10-28",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261028",
+      "currency": "USD",
+      "amount": "5000.00"
+    },
+    {
+      "activity_date": "2026-10-29",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261029",
+      "currency": "USD",
+      "amount": "-2000.00"
+    },
+    {
+      "activity_date": "2026-10-30",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261030",
+      "currency": "USD",
+      "amount": "2000.00"
+    },
+    {
+      "activity_date": "2026-11-02",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261102",
+      "currency": "USD",
+      "amount": "-5000.00"
+    },
+    {
+      "activity_date": "2026-11-03",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261103",
+      "currency": "USD",
+      "amount": "-1000.00"
+    },
+    {
+      "activity_date": "2026-11-04",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261104",
+      "currency": "USD",
+      "amount": "3000.00"
+    },
+    {
+      "activity_date": "2026-11-05",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261105",
+      "currency": "USD",
+      "amount": "-4000.00"
+    },
+    {
+      "activity_date": "2026-11-06",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261106",
+      "currency": "USD",
+      "amount": "0.00"
+    },
+    {
+      "activity_date": "2026-11-09",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261109",
+      "currency": "USD",
+      "amount": "4000.00"
+    },
+    {
+      "activity_date": "2026-11-10",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261110",
+      "currency": "USD",
+      "amount": "-3000.00"
+    },
+    {
+      "activity_date": "2026-11-11",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261111",
+      "currency": "USD",
+      "amount": "1000.00"
+    },
+    {
+      "activity_date": "2026-11-12",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261112",
+      "currency": "USD",
+      "amount": "5000.00"
+    },
+    {
+      "activity_date": "2026-11-13",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261113",
+      "currency": "USD",
+      "amount": "-2000.00"
+    },
+    {
+      "activity_date": "2026-11-16",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261116",
+      "currency": "USD",
+      "amount": "2000.00"
+    },
+    {
+      "activity_date": "2026-11-17",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261117",
+      "currency": "USD",
+      "amount": "-5000.00"
+    },
+    {
+      "activity_date": "2026-11-18",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261118",
+      "currency": "USD",
+      "amount": "-1000.00"
+    },
+    {
+      "activity_date": "2026-11-19",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261119",
+      "currency": "USD",
+      "amount": "3000.00"
+    },
+    {
+      "activity_date": "2026-11-20",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261120",
+      "currency": "USD",
+      "amount": "-4000.00"
+    },
+    {
+      "activity_date": "2026-11-23",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261123",
+      "currency": "USD",
+      "amount": "0.00"
+    },
+    {
+      "activity_date": "2026-11-24",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261124",
+      "currency": "USD",
+      "amount": "4000.00"
+    },
+    {
+      "activity_date": "2026-11-25",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261125",
+      "currency": "USD",
+      "amount": "-3000.00"
+    },
+    {
+      "activity_date": "2026-11-26",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261126",
+      "currency": "USD",
+      "amount": "1000.00"
+    },
+    {
+      "activity_date": "2026-11-27",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261127",
+      "currency": "USD",
+      "amount": "5000.00"
+    },
+    {
+      "activity_date": "2026-11-30",
+      "prime_account": "ACC1001",
+      "fund_id": "FUND01",
+      "txn_type": "NET_SUB_RED",
+      "reference": "PB-20261130",
+      "currency": "USD",
+      "amount": "-2000.00"
+    }
+  ],
+  "vendor_prices": [
+    {
+      "price_date": "2026-10-01",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.4000"
+    },
+    {
+      "price_date": "2026-10-01",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.1500"
+    },
+    {
+      "price_date": "2026-10-01",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8000"
+    },
+    {
+      "price_date": "2026-10-01",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.2500"
+    },
+    {
+      "price_date": "2026-10-02",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.8700"
+    },
+    {
+      "price_date": "2026-10-02",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.4029"
+    },
+    {
+      "price_date": "2026-10-02",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9443"
+    },
+    {
+      "price_date": "2026-10-02",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3803"
+    },
+    {
+      "price_date": "2026-10-05",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.1190"
+    },
+    {
+      "price_date": "2026-10-05",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.2360"
+    },
+    {
+      "price_date": "2026-10-05",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6543"
+    },
+    {
+      "price_date": "2026-10-05",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0044"
+    },
+    {
+      "price_date": "2026-10-06",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.0298"
+    },
+    {
+      "price_date": "2026-10-06",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9264"
+    },
+    {
+      "price_date": "2026-10-06",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8028"
+    },
+    {
+      "price_date": "2026-10-06",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5824"
+    },
+    {
+      "price_date": "2026-10-07",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.6444"
+    },
+    {
+      "price_date": "2026-10-07",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9880"
+    },
+    {
+      "price_date": "2026-10-07",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9429"
+    },
+    {
+      "price_date": "2026-10-07",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8691"
+    },
+    {
+      "price_date": "2026-10-08",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.1441"
+    },
+    {
+      "price_date": "2026-10-08",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3186"
+    },
+    {
+      "price_date": "2026-10-08",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6529"
+    },
+    {
+      "price_date": "2026-10-08",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.6353"
+    },
+    {
+      "price_date": "2026-10-09",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.7641"
+    },
+    {
+      "price_date": "2026-10-09",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3693"
+    },
+    {
+      "price_date": "2026-10-09",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8056"
+    },
+    {
+      "price_date": "2026-10-09",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.9047"
+    },
+    {
+      "price_date": "2026-10-12",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.6832"
+    },
+    {
+      "price_date": "2026-10-12",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0560"
+    },
+    {
+      "price_date": "2026-10-12",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9414"
+    },
+    {
+      "price_date": "2026-10-12",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5153"
+    },
+    {
+      "price_date": "2026-10-13",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.9394"
+    },
+    {
+      "price_date": "2026-10-13",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.8987"
+    },
+    {
+      "price_date": "2026-10-13",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6516"
+    },
+    {
+      "price_date": "2026-10-13",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0954"
+    },
+    {
+      "price_date": "2026-10-14",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.4123"
+    },
+    {
+      "price_date": "2026-10-14",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.1586"
+    },
+    {
+      "price_date": "2026-10-14",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8084"
+    },
+    {
+      "price_date": "2026-10-14",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.2761"
+    },
+    {
+      "price_date": "2026-10-15",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.8793"
+    },
+    {
+      "price_date": "2026-10-15",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.4042"
+    },
+    {
+      "price_date": "2026-10-15",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9399"
+    },
+    {
+      "price_date": "2026-10-15",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3554"
+    },
+    {
+      "price_date": "2026-10-16",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.1210"
+    },
+    {
+      "price_date": "2026-10-16",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.2278"
+    },
+    {
+      "price_date": "2026-10-16",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6503"
+    },
+    {
+      "price_date": "2026-10-16",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0253"
+    },
+    {
+      "price_date": "2026-10-19",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.0235"
+    },
+    {
+      "price_date": "2026-10-19",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9223"
+    },
+    {
+      "price_date": "2026-10-19",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8112"
+    },
+    {
+      "price_date": "2026-10-19",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5681"
+    },
+    {
+      "price_date": "2026-10-20",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.6328"
+    },
+    {
+      "price_date": "2026-10-20",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9948"
+    },
+    {
+      "price_date": "2026-10-20",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9383"
+    },
+    {
+      "price_date": "2026-10-20",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8753"
+    },
+    {
+      "price_date": "2026-10-21",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.1326"
+    },
+    {
+      "price_date": "2026-10-21",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3250"
+    },
+    {
+      "price_date": "2026-10-21",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6491"
+    },
+    {
+      "price_date": "2026-10-21",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.6380"
+    },
+    {
+      "price_date": "2026-10-22",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.7582"
+    },
+    {
+      "price_date": "2026-10-22",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3647"
+    },
+    {
+      "price_date": "2026-10-22",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8140"
+    },
+    {
+      "price_date": "2026-10-22",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8935"
+    },
+    {
+      "price_date": "2026-10-23",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.6856"
+    },
+    {
+      "price_date": "2026-10-23",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0480"
+    },
+    {
+      "price_date": "2026-10-23",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9367"
+    },
+    {
+      "price_date": "2026-10-23",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5338"
+    },
+    {
+      "price_date": "2026-10-26",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.9490"
+    },
+    {
+      "price_date": "2026-10-26",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9006"
+    },
+    {
+      "price_date": "2026-10-26",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6479"
+    },
+    {
+      "price_date": "2026-10-26",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0717"
+    },
+    {
+      "price_date": "2026-10-27",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.4245"
+    },
+    {
+      "price_date": "2026-10-27",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.1672"
+    },
+    {
+      "price_date": "2026-10-27",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8168"
+    },
+    {
+      "price_date": "2026-10-27",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3022"
+    },
+    {
+      "price_date": "2026-10-28",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.8885"
+    },
+    {
+      "price_date": "2026-10-28",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.4052"
+    },
+    {
+      "price_date": "2026-10-28",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9351"
+    },
+    {
+      "price_date": "2026-10-28",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3300"
+    },
+    {
+      "price_date": "2026-10-29",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.1227"
+    },
+    {
+      "price_date": "2026-10-29",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.2195"
+    },
+    {
+      "price_date": "2026-10-29",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6468"
+    },
+    {
+      "price_date": "2026-10-29",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0471"
+    },
+    {
+      "price_date": "2026-10-30",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.0171"
+    },
+    {
+      "price_date": "2026-10-30",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9184"
+    },
+    {
+      "price_date": "2026-10-30",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8196"
+    },
+    {
+      "price_date": "2026-10-30",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5523"
+    },
+    {
+      "price_date": "2026-11-02",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.6212"
+    },
+    {
+      "price_date": "2026-11-02",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0018"
+    },
+    {
+      "price_date": "2026-11-02",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9334"
+    },
+    {
+      "price_date": "2026-11-02",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8831"
+    },
+    {
+      "price_date": "2026-11-03",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.1212"
+    },
+    {
+      "price_date": "2026-11-03",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3312"
+    },
+    {
+      "price_date": "2026-11-03",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6457"
+    },
+    {
+      "price_date": "2026-11-03",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.6390"
+    },
+    {
+      "price_date": "2026-11-04",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.7524"
+    },
+    {
+      "price_date": "2026-11-04",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3598"
+    },
+    {
+      "price_date": "2026-11-04",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8224"
+    },
+    {
+      "price_date": "2026-11-04",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8838"
+    },
+    {
+      "price_date": "2026-11-05",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.6882"
+    },
+    {
+      "price_date": "2026-11-05",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0401"
+    },
+    {
+      "price_date": "2026-11-05",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9317"
+    },
+    {
+      "price_date": "2026-11-05",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5510"
+    },
+    {
+      "price_date": "2026-11-06",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.9587"
+    },
+    {
+      "price_date": "2026-11-06",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9028"
+    },
+    {
+      "price_date": "2026-11-06",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6446"
+    },
+    {
+      "price_date": "2026-11-06",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0489"
+    },
+    {
+      "price_date": "2026-11-09",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.4368"
+    },
+    {
+      "price_date": "2026-11-09",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.1758"
+    },
+    {
+      "price_date": "2026-11-09",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8252"
+    },
+    {
+      "price_date": "2026-11-09",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3280"
+    },
+    {
+      "price_date": "2026-11-10",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.8976"
+    },
+    {
+      "price_date": "2026-11-10",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.4060"
+    },
+    {
+      "price_date": "2026-11-10",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9300"
+    },
+    {
+      "price_date": "2026-11-10",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3042"
+    },
+    {
+      "price_date": "2026-11-11",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.1243"
+    },
+    {
+      "price_date": "2026-11-11",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.2112"
+    },
+    {
+      "price_date": "2026-11-11",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6436"
+    },
+    {
+      "price_date": "2026-11-11",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0699"
+    },
+    {
+      "price_date": "2026-11-12",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.0104"
+    },
+    {
+      "price_date": "2026-11-12",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9148"
+    },
+    {
+      "price_date": "2026-11-12",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8280"
+    },
+    {
+      "price_date": "2026-11-12",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5352"
+    },
+    {
+      "price_date": "2026-11-13",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.6094"
+    },
+    {
+      "price_date": "2026-11-13",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0089"
+    },
+    {
+      "price_date": "2026-11-13",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9282"
+    },
+    {
+      "price_date": "2026-11-13",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8927"
+    },
+    {
+      "price_date": "2026-11-16",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.1099"
+    },
+    {
+      "price_date": "2026-11-16",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3372"
+    },
+    {
+      "price_date": "2026-11-16",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6426"
+    },
+    {
+      "price_date": "2026-11-16",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.6382"
+    },
+    {
+      "price_date": "2026-11-17",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.7469"
+    },
+    {
+      "price_date": "2026-11-17",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3548"
+    },
+    {
+      "price_date": "2026-11-17",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8307"
+    },
+    {
+      "price_date": "2026-11-17",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8758"
+    },
+    {
+      "price_date": "2026-11-18",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.6910"
+    },
+    {
+      "price_date": "2026-11-18",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0324"
+    },
+    {
+      "price_date": "2026-11-18",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9263"
+    },
+    {
+      "price_date": "2026-11-18",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5669"
+    },
+    {
+      "price_date": "2026-11-19",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.9685"
+    },
+    {
+      "price_date": "2026-11-19",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9053"
+    },
+    {
+      "price_date": "2026-11-19",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6417"
+    },
+    {
+      "price_date": "2026-11-19",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0270"
+    },
+    {
+      "price_date": "2026-11-20",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.4490"
+    },
+    {
+      "price_date": "2026-11-20",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.1844"
+    },
+    {
+      "price_date": "2026-11-20",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8335"
+    },
+    {
+      "price_date": "2026-11-20",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.3534"
+    },
+    {
+      "price_date": "2026-11-23",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.9065"
+    },
+    {
+      "price_date": "2026-11-23",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.4064"
+    },
+    {
+      "price_date": "2026-11-23",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9245"
+    },
+    {
+      "price_date": "2026-11-23",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.2782"
+    },
+    {
+      "price_date": "2026-11-24",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.1257"
+    },
+    {
+      "price_date": "2026-11-24",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.2028"
+    },
+    {
+      "price_date": "2026-11-24",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6408"
+    },
+    {
+      "price_date": "2026-11-24",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.0935"
+    },
+    {
+      "price_date": "2026-11-25",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "183.0036"
+    },
+    {
+      "price_date": "2026-11-25",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "63.9115"
+    },
+    {
+      "price_date": "2026-11-25",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8363"
+    },
+    {
+      "price_date": "2026-11-25",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.5168"
+    },
+    {
+      "price_date": "2026-11-26",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.5977"
+    },
+    {
+      "price_date": "2026-11-26",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.0162"
+    },
+    {
+      "price_date": "2026-11-26",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.9226"
+    },
+    {
+      "price_date": "2026-11-26",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.9038"
+    },
+    {
+      "price_date": "2026-11-27",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "182.0987"
+    },
+    {
+      "price_date": "2026-11-27",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3430"
+    },
+    {
+      "price_date": "2026-11-27",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.6400"
+    },
+    {
+      "price_date": "2026-11-27",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "97.6356"
+    },
+    {
+      "price_date": "2026-11-30",
+      "security_id": "ZZ0000000001",
+      "currency": "USD",
+      "close_price": "181.7415"
+    },
+    {
+      "price_date": "2026-11-30",
+      "security_id": "ZZ0000000002",
+      "currency": "USD",
+      "close_price": "64.3494"
+    },
+    {
+      "price_date": "2026-11-30",
+      "security_id": "ZZ0000000003",
+      "currency": "USD",
+      "close_price": "41.8390"
+    },
+    {
+      "price_date": "2026-11-30",
+      "security_id": "ZZ0000000004",
+      "currency": "USD",
+      "close_price": "96.8695"
+    }
+  ],
+  "email_summary": [
+    {
+      "as_of_date": "2026-10-30",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_cash": "1000000.00",
+      "closing_cash": "1000000.00"
+    },
+    {
+      "as_of_date": "2026-11-30",
+      "account_id": "ACC1001",
+      "currency": "USD",
+      "opening_cash": "1000000.00",
+      "closing_cash": "998000.00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "fund_id": "FUND01",
+  "model": "claude-sonnet-5-5--VNGC",
+  "gateway": {
+    "base_url": "https://llmproxy.ustdev.com/",
+    "vault_url": "https://ustdev-az-is-ai-app-kv.vault.azure.net",
+    "secret_name": "VNGC1-kvs"
+  },
+  "effort": "medium",
+  "max_workers": 4,
+  "extraction": {
+    "csv_rows_per_call": 80,
+    "mt940_statements_per_call": 12
+  },
+  "reconciliation": {
+    "dates_per_call": 10
+  },
+  "tolerances": {
+    "cash": "0.01",
+    "holding_quantity": "0",
+    "market_value": "0.01",
+    "price_bps": "10",
+    "email_closing": "0.01"
+  },
+  "sources": {
+    "admin_cash": "admin/admin_cash_ledger_*.csv",
+    "admin_holdings": "admin/admin_holdings_*.csv",
+    "custody": "custodian/custodian_positions_*.csv",
+    "bank_mt940": "bank/bank_statement_mt940_*.txt",
+    "prime_broker": "prime_broker/prime_broker_activity_*.csv",
+    "vendor_prices": "pricing/vendor_prices_*.csv",
+    "email_summary": "email/prime_broker_month_end_summary_*.eml"
+  }
+}
